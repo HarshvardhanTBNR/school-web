@@ -9,5 +9,20 @@ h1{
 }
 .links{
 font-size:20px;
-color:yellowgreen;
+color:darkorange;
+display: inline;
+padding:10px;
 }
+.menu{
+list-style: none;
+display: table-cell;
+vertical-align: middle;
+padding-left: 33px;
+padding-right: 25px;
+background-color: crimson;
+}
+.links:hover {
+    background-color: oldlace;
+    font-size:25px;
+    text-decoration:underline;
+    color: blue;
