@@ -25,4 +25,10 @@ background-color: crimson;
     background-color: oldlace;
     font-size:25px;
     text-decoration:underline;
-    color: blue;
+    color: blue;}
+pics div{
+text-align: center;
+}
+#library{
+height: 90px;
+}
